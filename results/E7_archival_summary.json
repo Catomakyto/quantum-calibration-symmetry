@@ -1,0 +1,8 @@
+{
+  "n_qubits": 32,
+  "n_low_beta": 5,
+  "n_high_beta": 23,
+  "frac_low_beta_entropy_gt_0.85": 1.0,
+  "frac_high_beta_entropy_lt_0.5": 0.8695652173913043,
+  "note": "PROXY only: synthetic OU-parameter ensemble calibrated to published IBM backend-property ranges. No real archival network fetch was performed in this environment."
+}

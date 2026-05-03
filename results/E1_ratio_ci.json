@@ -1,0 +1,19 @@
+{
+  "n_trials": 200,
+  "beta": 0.5,
+  "ratio_xpf_over_xysnap": 1.52014652014652,
+  "ratio_xpf_over_xysnap_ci": [
+    1.3624009723187556,
+    1.6878835222635569
+  ],
+  "ratio_xpf_over_xypf": 2.528432168968318,
+  "ratio_xpf_over_xypf_ci": [
+    2.23806968869485,
+    2.8508924303365957
+  ],
+  "ratio_oracle_over_xysnap": 1.5225885225885227,
+  "ratio_oracle_over_xysnap_ci": [
+    1.3682783715083326,
+    1.6913158179036878
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "master_seed": 20260328,
+  "mode": "full",
+  "n_trials_matrix": 200,
+  "n_particles": 1500,
+  "q_train_episodes": 400,
+  "wall_seconds": 225.30980825424194,
+  "outputs": [
+    "figures/np_submission/v2/fig1_hero.pdf",
+    "figures/np_submission/v2/fig1_hero.png",
+    "figures/np_submission/v2/fig2_baselines.pdf",
+    "figures/np_submission/v2/fig2_baselines.png",
+    "figures/np_submission/v2/fig3_ablation.pdf",
+    "figures/np_submission/v2/fig3_ablation.png",
+    "figures/np_submission/v2/fig5_matrix.pdf",
+    "figures/np_submission/v2/fig5_matrix.png",
+    "figures/np_submission/v2/supp_e4_reliability.pdf",
+    "figures/np_submission/v2/supp_e4_reliability.png",
+    "results/np_review/experiments_v2/E1_cis.csv",
+    "results/np_review/experiments_v2/E1_ratio_ci.json",
+    "results/np_review/experiments_v2/E2_baseline_matrix.csv",
+    "results/np_review/experiments_v2/E3_cross_matrix.csv",
+    "results/np_review/experiments_v2/E4_calibration.csv",
+    "results/np_review/experiments_v2/E6_rotated_basis.csv",
+    "results/np_review/experiments_v2/E6_shot_matched.csv",
+    "results/np_review/experiments_v2/E6_ysnr_sweep.csv",
+    "results/np_review/experiments_v2/E7_archival_proxy.csv",
+    "results/np_review/experiments_v2/E7_archival_summary.json",
+    "results/np_review/experiments_v2/feedback_ratio_ci.json",
+    "results/np_review/experiments_v2/feedback_sweep.csv",
+    "results/np_review/experiments_v2/reproduction_manifest.json"
+  ]
+}
